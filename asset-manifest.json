@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fitpeo/static/css/main.5144e1ff.css",
+    "main.js": "/fitpeo/static/js/main.e386e510.js",
+    "pdfmake.js": "/fitpeo/static/js/pdfmake.da4b3692.chunk.js",
+    "canvg.js": "/fitpeo/static/js/canvg.12ecd3ff.chunk.js",
+    "xlsx.js": "/fitpeo/static/js/xlsx.22cb224d.chunk.js",
+    "static/js/453.91aca5be.chunk.js": "/fitpeo/static/js/453.91aca5be.chunk.js",
+    "static/media/dollar.png": "/fitpeo/static/media/dollar.e99f63d0ba862d4f1608.png",
+    "static/media/lock.png": "/fitpeo/static/media/lock.7b05080611c82fa1305e.png",
+    "static/media/income.png": "/fitpeo/static/media/income.abad4599c6658fa6e7b0.png",
+    "index.html": "/fitpeo/index.html",
+    "main.5144e1ff.css.map": "/fitpeo/static/css/main.5144e1ff.css.map",
+    "main.e386e510.js.map": "/fitpeo/static/js/main.e386e510.js.map",
+    "pdfmake.da4b3692.chunk.js.map": "/fitpeo/static/js/pdfmake.da4b3692.chunk.js.map",
+    "canvg.12ecd3ff.chunk.js.map": "/fitpeo/static/js/canvg.12ecd3ff.chunk.js.map",
+    "xlsx.22cb224d.chunk.js.map": "/fitpeo/static/js/xlsx.22cb224d.chunk.js.map",
+    "453.91aca5be.chunk.js.map": "/fitpeo/static/js/453.91aca5be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5144e1ff.css",
+    "static/js/main.e386e510.js"
+  ]
+}
